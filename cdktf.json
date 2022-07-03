@@ -1,0 +1,15 @@
+{
+  "language": "go",
+  "app": "go run main.go",
+  "codeMakerOutput": "generated",
+  "projectId": "e17d8307-f917-450b-9cc3-722b3e92f81a",
+  "sendCrashReports": "true",
+  "terraformProviders": [
+    "kreuzwerker/docker@~> 2.16.0"
+  ],
+  "terraformModules": [],
+  "context": {
+    "excludeStackIdFromLogicalIds": "true",
+    "allowSepCharsInLogicalIds": "true"
+  }
+}
